@@ -32,7 +32,7 @@
     "ext-json": "*",
     "ext-mbstring": "*",
     "ext-openssl": "*",
-    "php-http/multipart-stream-builder": "^1",
+    "php-http/multipart-stream-builder": "1.1.2",
     "psr-discovery/all": "^1",
     "psr/http-client-implementation": "^1",
     "psr/http-factory-implementation": "^1",
